@@ -2,7 +2,7 @@
 title:  "Historia, Conceptos y Variables"
 subtitle: "Taller_1A"
 author: 
-  - name: Leydi Alejandra Rodriguez Ramirez<br>Gabriela Alejandra Salcedo Garcia<br>Edwin Torres Tafur<br>Ana Liliana Zapata Ovalle
+  - name: Leydi Alejandra Rodriguez Ramirez<br>Gabriela Alexandra Salcedo Garcia<br>Edwin Torres Tafur<br>Ana Liliana Zapata Ovalle
     affiliation: "Escuela Superior De Administración Pública"
     affiliation-url: "https://www.esap.edu.co/"
 date: today
