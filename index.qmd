@@ -47,7 +47,7 @@ knitr:
 ```{=html}
 <style>
 body{
-  background-color:#bab056;
+  background-color:#9c9b94;
   font-size:130%;
   text-align:justify;
 }
@@ -163,7 +163,7 @@ Expresan cantidades que admiten operaciones numéricas con significado.
 | Tiempo de desplazamiento | Cuantitativa | Continua | Duración medida. |
 | Identificador de registro (`1001`, `1002`) | Cualitativa | Nominal | Números usados como etiquetas. |
 
-# .Escalas o niveles de medición
+# .Niveles de medición
 
 Las escalas de medición establecen cuáles comparaciones y operaciones resultan **interpretables**. El material *Variables, niveles de medición* identifica cuatro niveles: nominal, ordinal, intervalo y razón (pp. 11–17).
 
@@ -198,7 +198,7 @@ Las escalas de medición establecen cuáles comparaciones y operaciones resultan
 | Documento de identidad | Cualitativa nominal | Nominal |
 | Año de nacimiento (año calendario) | Cuantitativa discreta en registro | Intervalo |
 
-# .Aplicación introductoria en R
+# .Aplicación en R
 
 R permite almacenar variables, transformarlas, resumirlas y representarlas. Los siguientes ejemplos son **datos ficticios para aprendizaje** y utilizan únicamente funciones incluidas con R para facilitar su ejecución.
 
@@ -293,7 +293,7 @@ prop.test(x = exitos, n = nrow(estudio), correct = FALSE)
 
 **Nota:** la elección definitiva de una prueba estadística no depende únicamente del nivel de medición; también importan el diseño de muestreo, independencia de las observaciones, tamaño de muestra, distribución y pregunta científica.
 
-# .Actividades de aprendizaje
+# .Actividades
 
 **Actividad 1: clasifique las variables**
 
